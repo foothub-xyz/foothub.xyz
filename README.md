@@ -1,2 +1,2 @@
-# foothub.xyz
-foothub.xyz
+# foothub
+FootHub： https://foothub.xyz/
